@@ -1,6 +1,7 @@
 
 // ----------------- npm下載axios後及使用axios時，在此檔案會自動出現以下程式碼 -----------------
-// const { default: axios } = require("axios");
+// 即使在search.ejs的script加上了 type="module"，但以下程式碼仍會報錯(require is not defined)？
+const { default: axios } = require("axios");
 // 但會報錯：Uncaught ReferenceError: require is not defined
 
 

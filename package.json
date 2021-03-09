@@ -1,0 +1,26 @@
+{
+  "name": "post_ajax_by_using_axios_problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alysachan830/Node_js_axios_problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alysachan830/Node_js_axios_problem/issues"
+  },
+  "homepage": "https://github.com/alysachan830/Node_js_axios_problem#readme"
+}
